@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm EL GHAZAL SAID</h1>
-<h3 align="center">A junior dajngo developer from Morocco</h3>
+<h3 align="center">A junior django developer from Morocco</h3>
 
 I'm a 23-year-old junior Django developer from Morocco with a 3-year degree in Computer Science. 
 
