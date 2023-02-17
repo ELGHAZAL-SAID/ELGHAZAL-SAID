@@ -12,7 +12,6 @@ Let's collaborate on projects that challenge and inspire us to create innovative
 - 🤔 I’m looking for an opportunity to experience teamwork and knowledge exchange
 - 💬 Ask me about: python, django, html, css and lunix
 - 📫 How to reach me: <a href='mailto:elghazalsaid06@gmail.com' targit='blanc'>Mail me</a>
-- 😄 Pronouns: He/him
 - ⚡ Fun fact: my jokes makes me laugh 😅️
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elghazal-said&label=Profile%20views&color=0e75b6&style=flat" alt="elghazal-said" /> </p>
