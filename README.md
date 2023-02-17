@@ -11,7 +11,7 @@ Let's collaborate on projects that challenge and inspire us to create innovative
 - 🌱 I’m currently getting deep in python and django
 - 🤔 I’m looking for an opportunity to experience teamwork and knowledge exchange
 - 💬 Ask me about: python, django, html, css and lunix
-- 📫 How to reach me: <a href='email:elghazalsaid06@gmil.com'>Mail me</a>
+- 📫 How to reach me: <a href='elghazalsaid06@gmil.com'>Mail me</a>
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: my jokes makes me laugh 😅️
 
