@@ -10,7 +10,7 @@ Let's collaborate on projects that challenge and inspire us to create innovative
 
 - 🌱 I’m currently getting deep in python and django
 - 🤔 I’m looking for an opportunity to experience teamwork and knowledge exchange
-- 💬 Ask me about: python, django, html, css and lunix
+- 💬 Ask me about: python, django, html, css and linux
 - 📫 How to reach me: <a href='mailto:elghazalsaid06@gmail.com' targit='blanc'>Mail me</a>
 - ⚡ Fun fact: my jokes makes me laugh 😅️
 
