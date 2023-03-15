@@ -22,7 +22,6 @@ Let's collaborate on projects that challenge and inspire us to create innovative
 <p align="left">
 <a href="https://dev.to/elghazalsaid" target="blank"><img align="center" src="https://dev-to-uploads.s3.amazonaws.com/uploads/logos/resized_logo_UQww2soKuUsjaOGNB38o.png" alt="elghazalsaid" height="30" width="40" /></a>
 <a href="https://twitter.com/elghazal_said_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="elghazal_said_" height="30" width="40" /></a>
-<a href="https://instagram.com/said_elghazal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="said_elghazal" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
