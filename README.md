@@ -34,7 +34,7 @@ Let's collaborate on projects that challenge and inspire us to create innovative
   <p align='left'><img align="center" src="https://github-readme-stats.vercel.app/api?username=elghazal-said&show_icons=true&locale=en" alt="elghazal-said"/></p>
   <p align='right'><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=elghazal-said&" alt="elghazal-said" /></p>
 </div>
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
  
  <p align='left'><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime/?username=@licht&" alt="elghazal-said" /></p>
 
