@@ -30,12 +30,6 @@ Let's collaborate on projects that challenge and inspire us to create innovative
 <h3 align="left">Support:</h3>
 <p><a target="blank" href="https://www.buymeacoffee.com/saidelghazal"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="elghazal-said" /></a></p><br><br>
 <h3>Statistics</h3>
-<style>
-    #statics_holder{
-      display: flex;add
-      flex-direction: row;
-}
-</style>
 <div float="center" id = 'statics_holder'>
   <p align='center'><img align="center" src="https://github-readme-stats.vercel.app/api?username=elghazal-said&show_icons=true&locale=en" alt="elghazal-said"/></p>
   <p align='center'><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=elghazal-said&" alt="elghazal-said" /></p>
