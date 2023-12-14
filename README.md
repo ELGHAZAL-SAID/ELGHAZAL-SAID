@@ -1,16 +1,16 @@
 
 <h1 align="center">Hi 👋, I'm EL GHAZAL SAID</h1>
-<h3 align="center">A junior django developer from Morocco</h3>
+<h3 align="center">A junior .NET developer from Morocco</h3>
 
-I'm a 23-year-old junior Django developer from Morocco with a 3-year degree in Computer Science. 
+I'm a 23-year-old junior .NET developer from Morocco with a 3-year degree in Computer Science. 
 
 I love using code to automate boring repetitive tasks. I'm always exploring new technologies and tools to enhance my skills, and I appreciate the power of open-source software as a Linux user.
 
 Let's collaborate on projects that challenge and inspire us to create innovative solutions.
 
-- 🌱 I’m currently getting deep in python and django
+- 🌱 I’m currently getting deep in C# and ASP.NET CORE
 - 🤔 I’m looking for an opportunity to experience teamwork and knowledge exchange
-- 💬 Ask me about: python, django, html, css and linux
+- 💬 Ask me about: python, C#, ASP.NET CORE, html, css and linux
 - 📫 How to reach me: <a href='mailto:elghazalsaid06@gmail.com' targit='blanc'>Mail me</a>
 - ⚡ Fun fact: my jokes makes me laugh 😅️
 
