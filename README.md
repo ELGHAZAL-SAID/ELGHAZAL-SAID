@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm EL GHAZAL SAID</h1>
 <h3 align="center">A junior .NET developer from Morocco</h3>
 
-I'm a 23-year-old junior .NET developer from Morocco with a 3-year degree in Computer Science. 
+I'm a 25-year-old junior .NET developer from Morocco with a 3-year degree in Computer Science. 
 
 I love using code to automate boring repetitive tasks. I'm always exploring new technologies and tools to enhance my skills, and I appreciate the power of open-source software as a Linux user.
 
